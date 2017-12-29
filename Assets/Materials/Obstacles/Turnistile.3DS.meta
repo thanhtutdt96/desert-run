@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: dc33710493ee6d24d920905e5a21942f
+timeCreated: 1512628968
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 3dSolid
+    100002: 3dSolid0
+    100004: 3dSolid1
+    100006: 3dSolid10
+    100008: 3dSolid11
+    100010: 3dSolid12
+    100012: 3dSolid13
+    100014: 3dSolid14
+    100016: 3dSolid15
+    100018: 3dSolid16
+    100020: 3dSolid17
+    100022: 3dSolid18
+    100024: 3dSolid19
+    100026: 3dSolid2
+    100028: 3dSolid20
+    100030: 3dSolid21
+    100032: 3dSolid22
+    100034: 3dSolid23
+    100036: 3dSolid3
+    100038: 3dSolid4
+    100040: 3dSolid5
+    100042: 3dSolid6
+    100044: 3dSolid7
+    100046: 3dSolid8
+    100048: 3dSolid9
+    100050: Line
+    100052: //RootNode
+    400000: 3dSolid
+    400002: 3dSolid0
+    400004: 3dSolid1
+    400006: 3dSolid10
+    400008: 3dSolid11
+    400010: 3dSolid12
+    400012: 3dSolid13
+    400014: 3dSolid14
+    400016: 3dSolid15
+    400018: 3dSolid16
+    400020: 3dSolid17
+    400022: 3dSolid18
+    400024: 3dSolid19
+    400026: 3dSolid2
+    400028: 3dSolid20
+    400030: 3dSolid21
+    400032: 3dSolid22
+    400034: 3dSolid23
+    400036: 3dSolid3
+    400038: 3dSolid4
+    400040: 3dSolid5
+    400042: 3dSolid6
+    400044: 3dSolid7
+    400046: 3dSolid8
+    400048: 3dSolid9
+    400050: Line
+    400052: //RootNode
+    2300000: 3dSolid
+    2300002: 3dSolid0
+    2300004: 3dSolid1
+    2300006: 3dSolid10
+    2300008: 3dSolid11
+    2300010: 3dSolid12
+    2300012: 3dSolid13
+    2300014: 3dSolid14
+    2300016: 3dSolid15
+    2300018: 3dSolid16
+    2300020: 3dSolid17
+    2300022: 3dSolid18
+    2300024: 3dSolid19
+    2300026: 3dSolid2
+    2300028: 3dSolid20
+    2300030: 3dSolid21
+    2300032: 3dSolid22
+    2300034: 3dSolid23
+    2300036: 3dSolid3
+    2300038: 3dSolid4
+    2300040: 3dSolid5
+    2300042: 3dSolid6
+    2300044: 3dSolid7
+    2300046: 3dSolid8
+    2300048: 3dSolid9
+    2300050: Line
+    3300000: 3dSolid
+    3300002: 3dSolid0
+    3300004: 3dSolid1
+    3300006: 3dSolid10
+    3300008: 3dSolid11
+    3300010: 3dSolid12
+    3300012: 3dSolid13
+    3300014: 3dSolid14
+    3300016: 3dSolid15
+    3300018: 3dSolid16
+    3300020: 3dSolid17
+    3300022: 3dSolid18
+    3300024: 3dSolid19
+    3300026: 3dSolid2
+    3300028: 3dSolid20
+    3300030: 3dSolid21
+    3300032: 3dSolid22
+    3300034: 3dSolid23
+    3300036: 3dSolid3
+    3300038: 3dSolid4
+    3300040: 3dSolid5
+    3300042: 3dSolid6
+    3300044: 3dSolid7
+    3300046: 3dSolid8
+    3300048: 3dSolid9
+    3300050: Line
+    4300000: 3dSolid
+    4300002: 3dSolid0
+    4300004: 3dSolid1
+    4300006: 3dSolid2
+    4300008: 3dSolid3
+    4300010: 3dSolid4
+    4300012: 3dSolid5
+    4300014: 3dSolid6
+    4300016: 3dSolid7
+    4300018: 3dSolid8
+    4300020: 3dSolid9
+    4300022: 3dSolid10
+    4300024: 3dSolid11
+    4300026: 3dSolid12
+    4300028: 3dSolid13
+    4300030: 3dSolid14
+    4300032: Line
+    4300034: 3dSolid15
+    4300036: 3dSolid16
+    4300038: 3dSolid17
+    4300040: 3dSolid18
+    4300042: 3dSolid19
+    4300044: 3dSolid20
+    4300046: 3dSolid21
+    4300048: 3dSolid22
+    4300050: 3dSolid23
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06 - Default
+    second: {fileID: 2100000, guid: e3e8504c9df46bf4f83bb827fbb72921, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ____
+    second: {fileID: 2100000, guid: 2075c86b53355d240bb07ea9d3f6fa7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ____ _______
+    second: {fileID: 2100000, guid: ef45156bc1544ec4ab28bf30977c6494, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _____________ __
+    second: {fileID: 2100000, guid: 93b8be0e14935434baeb70eeac8f5210, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

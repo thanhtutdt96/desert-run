@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 7dac8f05600d03347b58f4da0ba0412e
+  - enabled: 1
+    path: Assets/Scenes/Max_Day.unity
+    guid: 825621eb06fb6d042a4d2e231a51f21c
+  - enabled: 1
+    path: Assets/Scenes/ChooseCharacterMap.unity
+    guid: b77d60137e7f2604cb47b940d0c93f7f
+  - enabled: 1
+    path: Assets/Scenes/Max_Night.unity
+    guid: 9c5cd9b274fb0124bad76c9e21404016
+  - enabled: 1
+    path: Assets/Scenes/Setting.unity
+    guid: 48481754624598244a22df366a9e384c
+  - enabled: 1
+    path: Assets/Scenes/Unity-chan_Day.unity
+    guid: dfadefa4a548e924998b18ba0669b922
+  - enabled: 1
+    path: Assets/Scenes/Unity-chan_Night.unity
+    guid: cc3a5ef66c20d0c4fb9923ecba322177
